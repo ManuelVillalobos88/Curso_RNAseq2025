@@ -4,3 +4,4 @@
 
 ## Aqui mostrare los codigos para RNAseq
 
+[Figure8.pdf](https://github.com/user-attachments/files/19096774/Figure8.pdf)
